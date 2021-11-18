@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-plus",
+  "version": "0.0.0",
+  "main": "./dist/index.js",
+  "repository": "https://github.com/Furry/TikTok",
+  "author": "auroraspalace2@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}

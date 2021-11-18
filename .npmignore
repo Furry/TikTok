@@ -1,0 +1,6 @@
+# Dirs
+node_modules/
+
+# Files
+tsconfig.json/
+yarn.lock
