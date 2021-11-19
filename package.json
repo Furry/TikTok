@@ -5,7 +5,11 @@
   "repository": "https://github.com/Furry/TikTok",
   "author": "auroraspalace2@gmail.com",
   "license": "MIT",
+  "scripts": {
+    "go": "tsc && node ./dist/index.js"
+  },
   "dependencies": {
-    "got": "^11.8.2"
+    "@types/got": "^9.6.12",
+    "got": "^11.8.3"
   }
 }
